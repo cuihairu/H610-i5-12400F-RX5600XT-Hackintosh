@@ -2,6 +2,8 @@
 
 Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
 
+![](docs/snap.png)
+
 ---
 
 ### Information 
