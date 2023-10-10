@@ -268,9 +268,18 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>built-in</key>
+				<data>AQAA</data>
+			</dict>
+		</dict>
 		<key>Delete</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
+			<array/>
+		</dict>
 	</dict>
 	<key>Kernel</key>
 	<dict>
