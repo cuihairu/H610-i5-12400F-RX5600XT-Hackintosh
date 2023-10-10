@@ -1,6 +1,6 @@
-# H610M-i5-1200F-RX5600XT-Hackintosh
+# H610-i5-1200F-RX5600XT-Hackintosh
 
-Install macOS Ventura on Intel H610M Mainboard with Intel i5-1200F.
+Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
 
 ---
 
@@ -8,17 +8,18 @@ Install macOS Ventura on Intel H610M Mainboard with Intel i5-1200F.
 
 - macOS: [Ventura](https://www.apple.com/macos/ventura/)
 - bootloader: [OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.5)
+- BIOS: [G610MN07](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 
 ### Hardware
 
 | Component    | Variant                   | Link                                                                                                                                         |
 |:------------:|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| Mainboard    | H610M                     | [www.asus.com](https://rog.asus.com/motherboards/rog-strix/rog-strix-z590-a-gaming-wifi-ii-model/)                                           |
+| Mainboard    | H610                      | [ark.intel.com](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)                                         |
 | Processor    | Intel Core i5 1200F       | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i910900k-processor-20m-cache-up-to-5-30-ghz.html)     |
 | DDR4 RAM     | Corsair 64GB              | [www.corsair.com](https://www.corsair.com/ja/zh/%E7%B1%BB%E5%88%AB/%E4%BA%A7%E5%93%81/%E5%86%85%E5%AD%98/VENGEANCE-LPX/p/CMK128GX4M4A2666C16)|
-| NVMe SSD     | Kingston 1TB              | [www.kingston.com](https://www.kingston.com.cn/en/ssd/dc1000b-data-center-boot-ssd)                                                          |
+| NVMe SSD     | Lexar SSD NM620 1TB       | [www.kingston.com](https://www.kingston.com.cn/en/ssd/dc1000b-data-center-boot-ssd)                                                          |
 | Graphics     | AMD Radeon RX 5600xt      | [www.amd.com](https://www.amd.com/en/products/graphics/amd-radeon-rx-6900-xt)                                                                |
-| WiFi / BT    | Intel AX210               | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
+| WiFi / BT    | Intel® Wi-Fi 6E AX210     | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
 
 ---
 
