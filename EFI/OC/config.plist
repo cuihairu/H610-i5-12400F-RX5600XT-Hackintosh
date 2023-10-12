@@ -1500,6 +1500,11 @@
 				<key>bluetoothExternalDongleFailed</key>
 				<data>AA==</data>
 			</dict>
+			<key>E09B9297-7928-4440-9AAB-D1F8536FBF0A</key>
+			<dict>
+				<key>hbfx-disable-patch-pci</key>
+				<true/>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict>
