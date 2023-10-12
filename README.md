@@ -1,4 +1,4 @@
-# H610-i5-1200F-RX5600XT-Hackintosh
+# H610-i5-12400F-RX5600XT-Hackintosh
 
 Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
 
