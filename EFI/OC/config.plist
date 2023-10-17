@@ -234,32 +234,32 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
-			    <key>@0,name</key>
-			    <string>ATY,Adder</string>
-			    <key>@1,name</key>
-			    <string>ATY,Adder</string>
-			    <key>@2,name</key>
-			    <string>ATY,Adder</string>
-			    <key>@3,name</key>
-			    <string>ATY,Adder</string>
-			    <key>AAPL,slot-name</key>
-			    <string>Internal@0,1,0/0,0/0,0/0,0</string>
-			    <key>AAPL00,DualLink</key>
-			    <data>AQAAAA==</data>
-			    <key>ATY,Copyright</key>
-			    <string>Copyright AMD Inc. All Rights Reserved. 2005-2023</string>
-			    <key>ATY,EFIVersion</key>
-			    <string>01.01.183</string>
-			    <key>ATY,EFIVersionB</key>
-			    <string>113-D1820501-101</string>
-			    <key>Force_Load_FalconSMUFW</key>
-			    <integer>1</integer>
-			    <key>device_type</key>
-			    <string>VGA compatible controller</string>
-			    <key>hda-gfx</key>
-			    <string>onboard-2</string>
-			    <key>model</key>
-			    <string>Radeon RX 5600 XT</string>
+				<key>@0,name</key>
+				<string>ATY,Adder</string>
+				<key>@1,name</key>
+				<string>ATY,Adder</string>
+				<key>@2,name</key>
+				<string>ATY,Adder</string>
+				<key>@3,name</key>
+				<string>ATY,Adder</string>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,0/0,0/0,0/0,0</string>
+				<key>AAPL00,DualLink</key>
+				<data>AQAAAA==</data>
+				<key>ATY,Copyright</key>
+				<string>Copyright AMD Inc. All Rights Reserved. 2005-2023</string>
+				<key>ATY,EFIVersion</key>
+				<string>01.01.183</string>
+				<key>ATY,EFIVersionB</key>
+				<string>113-D1820501-101</string>
+				<key>Force_Load_FalconSMUFW</key>
+				<integer>1</integer>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>hda-gfx</key>
+				<string>onboard-2</string>
+				<key>model</key>
+				<string>Radeon RX 5600 XT</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1504,7 +1504,7 @@
 				<key>rtc-blacklist</key>
 				<data></data>
 				<key>revcpuname</key>
-				<string>12th Gen Intel(R) Core(TM) i5-12400</string>
+				<string>12th Gen Intel(R) Core(TM) i5-12400F</string>
 				<key>revcpu</key>
 				<integer>1</integer>
 			</dict>
@@ -1532,7 +1532,7 @@
 			<key>E09B9297-7928-4440-9AAB-D1F8536FBF0A</key>
 			<dict>
 				<key>hbfx-disable-patch-pci</key>
-				<true/>
+				<integer>1</integer>
 			</dict>
 		</dict>
 		<key>Delete</key>
