@@ -17,7 +17,7 @@ Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
 | Component    | Variant                   | Link                                                                                                                                         |
 |:------------:|:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 | Mainboard    | H610                      | [ark.intel.com](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)                                         |
-| Processor    | Intel Core i5 12400F       | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/199332/intel-core-i512400f-processor-20m-cache-up-to-5-30-ghz.html)     |
+| Processor    | Intel Core i5 12400F       | [ark.intel.com](https://ark.intel.com/content/www/us/en/ark/products/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz.html)     |
 | Auido        | ALC879                    |                                                                                                                                              |
 | DDR4 RAM     | Corsair 64GB              | [www.corsair.com](https://www.corsair.com/ja/zh/%E7%B1%BB%E5%88%AB/%E4%BA%A7%E5%93%81/%E5%86%85%E5%AD%98/VENGEANCE-LPX/p/CMK128GX4M4A2666C16)|
 | NVMe SSD     | Lexar SSD NM620 1TB       | [www.lexar.com](https://www.lexar.com/product/lexar-nm620-m-2-2280-nvme-ssd/)                                                                |
