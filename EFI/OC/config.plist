@@ -1507,6 +1507,10 @@
 				<string>12th Gen Intel(R) Core(TM) i5-12400F</string>
 				<key>revcpu</key>
 				<integer>1</integer>
+				<key>revpatch</key>
+				<string>cpuname</string>
+				<key>revblock</key>
+				<string>pci</string>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
@@ -1517,7 +1521,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>agdpmod=pikera alcid=99 debug=0x100 keepsyms=1 swd_panic=1</string>
+				<string>agdpmod=pikera alcid=13 debug=0x100 keepsyms=1 swd_panic=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
