@@ -1,6 +1,6 @@
 # H610-i5-12400F-RX5600XT-Hackintosh
 
-Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
+Install macOS Sonoma on Intel H610 Mainboard with Intel i5-1200F.
 
 ![](docs/snap.png)
 
@@ -8,8 +8,8 @@ Install macOS Ventura on Intel H610 Mainboard with Intel i5-1200F.
 
 ### Information 
 
-- macOS: [Ventura](https://www.apple.com/macos/ventura/)
-- bootloader: [OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.5)
+- macOS: [Sonoma](https://www.apple.com/macos/sonoma/)
+- bootloader: [OpenCore 0.9.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.6)
 - BIOS: [G610MN07](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 
 ### Hardware
